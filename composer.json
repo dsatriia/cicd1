@@ -1,0 +1,15 @@
+{
+    "name": "dimassatria/cicd1",
+    "autoload": {
+        "psr-4": {
+            "Dimassatria\\Cicd1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimas Satria",
+            "email": "dimas.satria@detik.com"
+        }
+    ],
+    "require": {}
+}
